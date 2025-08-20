@@ -1,0 +1,2 @@
+# Microbial-Dynamics-in-Food-Waste-Conversion-to-Single-Cell-Protein-in-Aquaculture-Systems
+This project explores microbial communities converting carbohydrate-rich food wastes into single-cell protein (SCP) in a microaerophilic side reactor integrated with a recirculating aquaculture system. Using 16S rRNA sequencing, network, and functional analyses, we identify key taxa and pathways driving nutrient cycling and protein production.
